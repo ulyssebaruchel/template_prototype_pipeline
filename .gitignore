@@ -1,0 +1,9 @@
+# Ignore everything in this directory
+*
+# Except this file
+!.gitignore
+!data
+!temp_logs
+!notebooks
+!resources
+!misc
